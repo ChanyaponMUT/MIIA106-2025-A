@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C80AFE-637C-403F-ADB6-A23416ACD442}|LAB4_Homework\\LAB4_Homework.vcxproj|C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4_Homework\\LAB4_Homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3C80AFE-637C-403F-ADB6-A23416ACD442}|LAB4_Homework\\LAB4_Homework.vcxproj|solutionrelative:LAB4_Homework\\LAB4_Homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CF6FD1-35B1-4354-9F0E-FB31C005C179}|LAB4.7\\LAB4.7.vcxproj|C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4.7\\LAB4.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63CF6FD1-35B1-4354-9F0E-FB31C005C179}|LAB4.7\\LAB4.7.vcxproj|solutionrelative:LAB4.7\\LAB4.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF10653-CEA6-4FF3-9887-BDC70D3B5465}|LAB4.6\\LAB4.6.vcxproj|C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4.6\\LAB4.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FAF10653-CEA6-4FF3-9887-BDC70D3B5465}|LAB4.6\\LAB4.6.vcxproj|solutionrelative:LAB4.6\\LAB4.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEFED8C-C774-44C6-9A9D-18F27195908F}|LAB4.5\\LAB4.5.vcxproj|C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4.5\\LAB4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFEFED8C-C774-44C6-9A9D-18F27195908F}|LAB4.5\\LAB4.5.vcxproj|solutionrelative:LAB4.5\\LAB4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 77,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB4.7.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4.7\\LAB4.7.cpp",
+              "RelativeDocumentMoniker": "LAB4.7\\LAB4.7.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4.7\\LAB4.7.cpp",
+              "RelativeToolTip": "LAB4.7\\LAB4.7.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T23:26:29.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB4.6.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4.6\\LAB4.6.cpp",
+              "RelativeDocumentMoniker": "LAB4.6\\LAB4.6.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4.6\\LAB4.6.cpp",
+              "RelativeToolTip": "LAB4.6\\LAB4.6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T22:57:14.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB4.5.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4.5\\LAB4.5.cpp",
+              "RelativeDocumentMoniker": "LAB4.5\\LAB4.5.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4.5\\LAB4.5.cpp",
+              "RelativeToolTip": "LAB4.5\\LAB4.5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T22:42:03.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB4_Homework.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4_Homework\\LAB4_Homework.cpp",
+              "RelativeDocumentMoniker": "LAB4_Homework\\LAB4_Homework.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E21\u0E2D\\LAB4_Homework\\LAB4_Homework\\LAB4_Homework.cpp",
+              "RelativeToolTip": "LAB4_Homework\\LAB4_Homework.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T22:29:34.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
